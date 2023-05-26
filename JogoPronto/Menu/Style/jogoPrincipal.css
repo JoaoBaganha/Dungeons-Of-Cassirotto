@@ -1,0 +1,27 @@
+.botao {
+    position: absolute;
+    bottom: 400px;
+    right: 200px;
+
+
+    background-color: burlywood;
+ 
+    padding: 10px;
+    font-family: goudy old Style;
+    font-size: large;
+    cursor: pointer;
+    margin: 10px;
+
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+
+}
+
+.botao:hover{
+
+    background-color: rgb(254, 220, 174);
+}

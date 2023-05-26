@@ -1,0 +1,56 @@
+/*Old English Text MT;*/
+
+header {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    color: burlywood;
+    font-family: Old English Text MT;
+    
+
+  }
+  
+  h2 {
+    font-size: 32px;
+    margin-top: 0;
+    color: burlywood;
+    font-family: Old English Text MT;
+    
+  }
+  
+
+p{
+  color: burlywood;
+}
+
+.botao{
+    background-color: burlywood;
+ 
+    padding: 10px;
+    font-family: goudy old Style;
+    font-size: large;
+    cursor: pointer;
+    margin: 10px;
+
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+
+  
+
+ 
+}
+
+.botao:hover{
+
+    background-color: rgb(254, 220, 174);
+}
+
+
+

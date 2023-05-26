@@ -1,0 +1,51 @@
+header {
+    text-align: center;
+    color: burlywood;
+    font-family: goudy old Style;
+  }
+  
+  h1 {
+    font-size: 50px;
+    margin-bottom: 0;
+    font-family: Old English Text MT;
+  }
+
+  h2{
+    font-size: 32px;
+    margin-top: 0;
+    font-family: Old English Text MT;
+  }
+  
+  h3 {
+    font-size: 25px;
+    margin-top: 0;
+ 
+  }
+
+  h4{
+    font-size: 20px;
+    margin-top: 0;
+}
+
+button{
+    background-color: burlywood;
+ 
+    padding: 10px;
+    font-family: goudy old Style;
+    font-size: large;
+    cursor: pointer;
+    margin: 10px;
+
+    width: 250px;
+    
+  
+
+ 
+}
+
+button:hover{
+
+    background-color: rgb(254, 220, 174);
+}
+
+  
